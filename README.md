@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ami</h1>
+<h1 align="center">Hi 👋, Iam Ami</h1>
 <h3 align="center">A Passionate MERN Stack developer.</h3>
 <p  align="center">
 <img  width='400' src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
