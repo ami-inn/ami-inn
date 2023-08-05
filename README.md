@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Ami</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 <p  align="center">
-<img width="200" style="border-radius: 50%;" src="https://i.pinimg.com/originals/3a/62/1e/3a621e147ff47f5830acdf06ee4c1b3b.jpg" alt="Ami's Profile Picture">
+ <img width="200" style="border-radius: 50%;" src="https://i.pinimg.com/originals/3a/62/1e/3a621e147ff47f5830acdf06ee4c1b3b.jpg" alt="Ami's Profile Picture">
 </p>
 - 🌱 I have completed MERN basics and now delving into advanced topics. I believe in my ability to adapt to new challenges.
 
