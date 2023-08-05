@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, Iam Ami</h1>
-<h3 align="center">A Passionate MERN Stack developer.</h3>
+<h1 align="center">Hi 👋, I am Ami</h1>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 <p  align="center">
-<img  width='200' src="https://i.pinimg.com/originals/3a/62/1e/3a621e147ff47f5830acdf06ee4c1b3b.jpg">
+<img  width='100' src="https://i.pinimg.com/originals/3a/62/1e/3a621e147ff47f5830acdf06ee4c1b3b.jpg">
 </p>
-- 🎀 I’m currently learning **React,...**
+- 🌱 I have completed MERN basics and now delving into advanced topics. I believe in my ability to adapt to new challenges.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ami-inn](https://github.com/ami-inn)
 
-- 📫 How to reach me **ameenameen7772@gmail.com**
+- 📫 You can reach me at **ameenameen7772@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
