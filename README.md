@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Iam Ami</h1>
 <h3 align="center">A Passionate MERN Stack developer.</h3>
 <p  align="center">
-<img  width='400' src="https://pin.it/6zl9IAW">
+<img  width='400' src="https://i.pinimg.com/originals/3a/62/1e/3a621e147ff47f5830acdf06ee4c1b3b.jpg">
 </p>
 - 🎀 I’m currently learning **React,...**
 
