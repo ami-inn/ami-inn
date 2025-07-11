@@ -1,6 +1,6 @@
 <h1 align="center"> 
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Ameen+!+👋🏻)](https://github.com/ami-inn)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Ami+!+👋🏻)](https://github.com/ami-inn)
 
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJjZjIyYnp6Y3hzNWI4ZDdlcnhnY3AzYnNmdGlva2Y4ZXExbnh3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif" width=250 />  </h1>
 
@@ -77,6 +77,8 @@
 <br> 
 
 <H3 ALIGN="center"> *Show some ❤️ by starring my repositories* </H3>
-<a href="https://holopin.io/@amiinn">
-<img src="https://holopin.me/amiinn" alt="Amiinn's Holopin Board" width="50%"/>
-</a>
+<div align="center">
+  <a href="https://holopin.io/@amiinn">
+    <img src="https://holopin.me/amiinn" alt="Amiinn's Holopin Board" width="50%"/>
+  </a>
+</div>
