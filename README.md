@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d1am55eWtyeDcyNmQwN2lpejNsNHY4YTl2YWszbGJqNzhxMmh5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unytkTevRoJQmQRNBH/giphy.gif" width=400 margin="10px"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d1am55eWtyeDcyNmQwN2lpejNsNHY4YTl2YWszbGJqNzhxMmh5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unytkTevRoJQmQRNBH/giphy.gif" width=350 margin="10px"/>
 
 <h3 align="left">About Me: </h3>
 
