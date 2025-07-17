@@ -6,6 +6,9 @@
 
 <p align="center"> <i> A technophile who loves to innovate, build ground-breaking products and empower developer ecosytems/communities. </i></p>
 
+<p align="center" style="font-size: 0.8em; color: #666;">
+  <i>⚠️Note : Most of my contributions are in private repositories - the activity graph doesn't reflect my full work.</i>
+</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ami-inn&label=Profile%20views&color=0e75b6&style=flat" alt="ami-inn"/></p>
 
